@@ -1,5 +1,17 @@
 {
   "devDependencies": {
-    "webpack": "^1.15.0"
+    "babel-core": "^6.26.3",
+    "babel-loader": "^6.4.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "webpack-cli": "^2.1.5",
+    "webpack-dev-server": "^2.11.5"
+  },
+  "dependencies": {
+    "@webpack-cli/init": "^0.3.0",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "webpack": "^3.10.0"
   }
 }
